@@ -9,3 +9,4 @@ DEL /F/A/Q \\?\%*
 RD /S /Q \\?\%*
 echo 文件已删除(file deleted)
 pause
+exit
