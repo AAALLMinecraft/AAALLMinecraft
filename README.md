@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I am a student.
-- 📫 How to reach me lll858982@163.com
+- 📫 How to reach me! lll858982@163.com
 -    Note: I am Chinese
 -    ah! 嗨害嗨!
 <!---
