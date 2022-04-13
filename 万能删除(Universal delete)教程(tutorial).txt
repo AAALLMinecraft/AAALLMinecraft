@@ -1,0 +1,2 @@
+Chinese:教程:把文件拖到该文件然后，即用该文件打开你拖到文件，然后按y删除拖到的文件，按n退出。
+English:Tutorial: Drag the file to the file and then use the file to open the file you dragged to, then press y to delete the dragged file, press n to exit.
